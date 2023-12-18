@@ -1,0 +1,14 @@
+/Users/sofass/Downloads/лабы системка/csharp2axqxq/csharp2axqxq/bin/Debug/net7.0/csharp2axqxq
+/Users/sofass/Downloads/лабы системка/csharp2axqxq/csharp2axqxq/bin/Debug/net7.0/csharp2axqxq.deps.json
+/Users/sofass/Downloads/лабы системка/csharp2axqxq/csharp2axqxq/bin/Debug/net7.0/csharp2axqxq.runtimeconfig.json
+/Users/sofass/Downloads/лабы системка/csharp2axqxq/csharp2axqxq/bin/Debug/net7.0/csharp2axqxq.dll
+/Users/sofass/Downloads/лабы системка/csharp2axqxq/csharp2axqxq/bin/Debug/net7.0/csharp2axqxq.pdb
+/Users/sofass/Downloads/лабы системка/csharp2axqxq/csharp2axqxq/obj/Debug/net7.0/csharp2axqxq.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sofass/Downloads/лабы системка/csharp2axqxq/csharp2axqxq/obj/Debug/net7.0/csharp2axqxq.AssemblyInfoInputs.cache
+/Users/sofass/Downloads/лабы системка/csharp2axqxq/csharp2axqxq/obj/Debug/net7.0/csharp2axqxq.AssemblyInfo.cs
+/Users/sofass/Downloads/лабы системка/csharp2axqxq/csharp2axqxq/obj/Debug/net7.0/csharp2axqxq.csproj.CoreCompileInputs.cache
+/Users/sofass/Downloads/лабы системка/csharp2axqxq/csharp2axqxq/obj/Debug/net7.0/csharp2axqxq.dll
+/Users/sofass/Downloads/лабы системка/csharp2axqxq/csharp2axqxq/obj/Debug/net7.0/refint/csharp2axqxq.dll
+/Users/sofass/Downloads/лабы системка/csharp2axqxq/csharp2axqxq/obj/Debug/net7.0/csharp2axqxq.pdb
+/Users/sofass/Downloads/лабы системка/csharp2axqxq/csharp2axqxq/obj/Debug/net7.0/csharp2axqxq.genruntimeconfig.cache
+/Users/sofass/Downloads/лабы системка/csharp2axqxq/csharp2axqxq/obj/Debug/net7.0/ref/csharp2axqxq.dll
